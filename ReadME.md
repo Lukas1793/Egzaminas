@@ -8,6 +8,7 @@ Registracijos forma application
 PORT = 4000
 
 DATABASE_ACCESS = "mongodb+srv://userTWO:Lukas123@cluster0.q7gyi.mongodb.net/register?retryWrites=true&w=majority"
+
 --Startuoti serveriui terminale parašyti: npm start
 --Sekmingai startavus serveriui terminale matysite tekstą:
 server is running on port: 4000
