@@ -3,6 +3,7 @@ Registracijos forma application
 
 --Serverio startavimui atsidaryti naują terminalą ir nueiti i aplanką backend (terminale parašyti: cd backend)
 --Reikia susidiegti node modules, komanda terminale: npm install
+
 --Susikurti .enc failą su ir pateikti šia informaciją:
 
 PORT = 4000
