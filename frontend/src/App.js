@@ -9,7 +9,7 @@ function App() {
   const [newFullName, setNewFullName] = useState('');
   const [usersList, setUsersList] = useState([]);
 
-  // shows users lis
+  // shows users list
   useEffect(() => {
     Axios.get('http://localhost:4000/read').then((response) => {
       setUsersList(response.data);
