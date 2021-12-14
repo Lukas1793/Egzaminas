@@ -16,7 +16,7 @@ app.use(cors());
 mongoose.connect(process.env.DATABASE_ACCESS, () =>
   console.log('Database connected...')
 );
-
+// Routes
 // CREATE
 
 app.post('/insert', async (req, res) => {
