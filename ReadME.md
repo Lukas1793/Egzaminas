@@ -1,7 +1,7 @@
 Registracijos forma application
 
 
---Serverio startavimui atsidaryti naują terminalą ir nueiti i aplanką backend (terminale parašyti: cd backend)
+--Serverio startavimui atsidaryti naują terminalą ir nunaviguoti i aplanką backend (terminale parašyti: cd backend)
 --Reikia susidiegti node modules, komanda terminale: npm install
 
 --Susikurti .env failą backend aplanke ir pateikti šia informaciją faile:
